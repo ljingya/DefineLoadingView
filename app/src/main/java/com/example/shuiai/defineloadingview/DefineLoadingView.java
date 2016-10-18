@@ -69,7 +69,7 @@ public class DefineLoadingView extends View {
     private void initRecrouse() {
         wavePaint = new Paint();
         wavePaint.setAntiAlias(true);
-        wavePaint.setColor(Color.GRAY);
+        wavePaint.setColor(Color.GREEN);
         circlePaint = new Paint();
         circlePaint.setAntiAlias(true);
         circlePaint.setColor(Color.parseColor("#77aa0000"));
